@@ -2,23 +2,18 @@
 <img width='100%' height='250px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/pictures/Header.jpg" alt="Header" />
 </div>
 
-# Hello Fellow < Developers/ >! <img width='35px' height='35px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/hello.gif" />
+# Hello Fellow < Developers />! <img width='35px' height='35px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/hello.gif" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IvanMarakanov.IvanMarakanov)
+> I'm Ivan, `Junior Java Developer`, 
+> Yandex.Practicum student from Russia
 
 ## About Me <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/dancing_cactus.gif" />
 
 <img width='55%' align="right" alt="cat.svg not found =(" src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/d81ab3fa682ceffdac3dfa290b0fb76a3d947a33/pictures/cat.svg" />
 
-> I'm Ivan, Junior Java Developer, 
-> Yandex.Practicum student from Russia
-
 * 🔭 I’m currently working on telegram bot for tracking tasks
-
 * 🌱 I’m currently learning Java 
-
 * 👯 I’m looking to collaborate on Yandex 
-
 * 💬 Talk to me about Java 
 
 ## Languages <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/brackets.gif" />
@@ -42,3 +37,4 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMarakanov&layout=compact"> <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMarakanov&layout=compact" /> </a>
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=IvanMarakanov.IvanMarakanov)
