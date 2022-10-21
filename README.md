@@ -25,17 +25,16 @@
 <a href="https://github.com/IvanMarakanov?tab=repositories&q=&type=&language=java&sort="> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/languages/Java.png" /> </a>
 
 ## Skills <img width='42px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/print.gif" />
-<a href="https://www.jetbrains.com/idea/"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/IntelliJ_IDEA.svg" /> </a>
-<a href="https://git-scm.com/"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/Git.svg" /> </a>
-<a href="https://spring.io/"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/Spring.svg" /> </a>
-<a href="https://github.com/"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/GitHub.svg" /> </a>
-<a href="https://maven.apache.org/"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/Maven.svg" /> </a>
-<a href="https://www.postgresql.org/"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/PostgreSQL.svg" /> </a>
+<a href="https://www.jetbrains.com/idea/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/IntelliJ_IDEA.svg" /> </a>
+<a href="https://git-scm.com/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/Git.svg" /> </a>
+<a href="https://spring.io/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/Spring.svg" /> </a>
+<a href="https://github.com/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/GitHub.svg" /> </a>
+<a href="https://maven.apache.org/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/Maven.svg" /> </a>
+<a href="https://www.postgresql.org/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/PostgreSQL.svg" /> </a>
 
 ## Connect with me <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/flying_bird.gif" />
 <a href="https://t.me/Foodfox_Ivan_Marakanov"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/communications/Telegram.svg" /> </a>
 <a href="https://vk.com/bucketonhead"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/communications/Vk.svg" /> </a>
-<a href="https://github.com/IvanMarakanov"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/communications/GitHub.svg" /> </a>
 
 ## My GitHub Stats <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/github.gif" />
 <p align="center">
