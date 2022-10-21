@@ -4,7 +4,7 @@
 
 # Hello Fellow < Developers />! <img width='35px' height='35px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/hello.gif" />
 
-> I'm Ivan, `Junior Java Developer`, 
+> I'm Ivan, `Beginner Java-Developer`, 
 > Yandex.Practicum student from Russia
 
 ## About Me <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/dancing_cactus.gif" />
