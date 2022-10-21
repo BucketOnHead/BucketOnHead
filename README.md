@@ -1,5 +1,5 @@
 <div align="center">
-<img width='100%' height='250px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/d81ab3fa682ceffdac3dfa290b0fb76a3d947a33/pictures/chelovek_kraska_nebo.jpg" alt="chelovek_kraska_nebo.jpg not found =(" />
+<img width='100%' height='250px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/pictures/Header.jpg" alt="Header" />
 </div>
 
 # Hello Fellow < Developers/ >! <img width='35px' height='35px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/hello.gif" />
