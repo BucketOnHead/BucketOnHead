@@ -33,8 +33,8 @@
 
 ## My GitHub Stats <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/github.gif" />
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=IvanMarakanov&show_icons=true&count_private=true"> <img height='130' src="https://github-readme-stats.vercel.app/api?username=IvanMarakanov&show_icons=true&count_private=true&hide=issues,contribs" /> </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMarakanov&layout=compact"> <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMarakanov&layout=compact" /> </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=BucketOnHead&show_icons=true&count_private=true"> <img height='130' src="https://github-readme-stats.vercel.app/api?username=BucketOnHead&show_icons=true&count_private=true&hide=issues,contribs" /> </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BucketOnHead&layout=compact"> <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BucketOnHead&layout=compact" /> </a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IvanMarakanov.IvanMarakanov)
+![](https://komarev.com/ghpvc/?username=BucketOnHead)
