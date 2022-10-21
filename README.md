@@ -17,7 +17,7 @@
 * 💬 Talk to me about Java 
 
 ## Languages <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/brackets.gif" />
-<a href="https://github.com/IvanMarakanov?tab=repositories&q=&type=&language=java&sort="> <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/languages/Java.png" /> </a>
+<a href="https://github.com/IvanMarakanov?tab=repositories&q=&type=&language=java&sort="> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/languages/Java.svg" /> </a>
 
 ## Skills <img width='42px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/print.gif" />
 <a href="https://www.jetbrains.com/idea/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/icons/skills/IntelliJ_IDEA.svg" /> </a>
