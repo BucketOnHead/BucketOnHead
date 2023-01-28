@@ -13,10 +13,10 @@
 
 <img width='55%' align="right" alt="cat.svg not found =(" src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/d81ab3fa682ceffdac3dfa290b0fb76a3d947a33/pictures/cat.svg" />
 
-* 🔭 I’m currently working on telegram bot for tracking tasks
-* 🌱 I’m currently learning Java 
-* 👯 I’m looking to collaborate on Yandex 
-* 💬 Talk to me about Java 
+* 🔭 -
+* 🌱 -
+* 👯 - 
+* 💬 -
 
 ## Languages <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/gifs/brackets.gif" />
 <a href="https://github.com/BucketOnHead?tab=repositories&q=&type=&language=java&sort="> <img width='40px' height='40px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/languages/Java.svg" /> </a>
