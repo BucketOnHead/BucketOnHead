@@ -31,10 +31,9 @@
 
 ## Connect with me <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/gifs/flying_bird.gif" />
 
-<!-- Telegram -->
-<a href="https://t.me/BucketOnHead"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Telegram.svg" /> </a>
-<a href="https://vk.com/bucketonhead"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Vk.svg" /> </a>
-<a href="mailto:marakanovivan@gmail.com?subject=Hello&body=I%20saw%20your%20github%20profile%20and%20decided%20to%20write%20to%20you"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Gmail.svg" /> </a>
+<!-- Telegram --><a href="https://t.me/BucketOnHead"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Telegram.svg" /> </a>
+<!-- VK --><a href="https://vk.com/bucketonhead"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Vk.svg" /> </a>
+<!-- Gmail --><a href="mailto:marakanovivan@gmail.com?subject=Hello&body=I%20saw%20your%20github%20profile%20and%20decided%20to%20write%20to%20you"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Gmail.svg" /> </a>
 
 ## My GitHub Stats <img width='32px' height='32px' src="https://raw.githubusercontent.com/IvanMarakanov/IvanMarakanov/main/gifs/github.gif" />
 <p align="center">
