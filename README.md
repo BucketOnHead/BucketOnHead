@@ -29,8 +29,11 @@
 <a href="https://maven.apache.org/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/skills/Maven.svg" /> </a>
 <a href="https://www.postgresql.org/"> <img width='40px' height='40px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/skills/PostgreSQL.svg" /> </a>
 
-## Connect with me <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/gifs/flying_bird.gif" />
-<a href="https://t.me/Foodfox_Ivan_Marakanov"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Telegram.svg" /> </a>
+## Connect with me 
+<!-- Telegram -->
+<img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/gifs/flying_bird.gif" />
+<a href="https://t.me/BucketOnHead"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Telegram.svg" /> </a>
+
 <a href="https://vk.com/bucketonhead"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Vk.svg" /> </a>
 <a href="mailto:marakanovivan@gmail.com?subject=Hello&body=I%20saw%20your%20github%20profile%20and%20decided%20to%20write%20to%20you"> <img width='32px' height='32px' src="https://raw.githubusercontent.com/BucketOnHead/BucketOnHead/main/icons/communications/Gmail.svg" /> </a>
 
