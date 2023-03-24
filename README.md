@@ -6,10 +6,14 @@
 > чтобы стать экспертом в своей области.
 
 ## Курсы
-- Яндекс Практикум (Java-разработчик)
+- Яндекс Практикум (Java-разработчик):
   - [Filmorate](https://github.com/BucketOnHead/java-filmorate)
   - [Shareit](https://github.com/BucketOnHead/java-shareit)
   - [Explore with me](https://github.com/BucketOnHead/java-explore-with-me)
+
+## Сертификаты
+- Яндекс Практикум:
+  - [Java-разработчик](.readme/certificates/yandex/java-developer.pdf) 
 
 ## Языки программирования
 - [Java](https://github.com/BucketOnHead?tab=repositories&q=&type=&language=java&sort=)
