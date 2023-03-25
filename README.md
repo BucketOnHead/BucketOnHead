@@ -18,7 +18,6 @@
 
 - Gmail: marakanovivan@gmail.com
 - Telegram: https://t.me/BucketOnHead
-- VK: https://vk.com/bucketonhead
 
 ## Курсы
 
