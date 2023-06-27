@@ -10,6 +10,7 @@
 
 - [Контакты](#контакты)
 - [Курсы](#курсы)
+- [Пет-проекты](#пет-проекты)
 - [Сертификаты](#сертификаты)
 - [Статистика](#статистика)
 - [Языки программирования](#языки-программирования)
@@ -25,6 +26,10 @@
     - [Filmorate](https://github.com/BucketOnHead/java-filmorate)
     - [Shareit](https://github.com/BucketOnHead/java-shareit)
     - [Explore with me](https://github.com/BucketOnHead/java-explore-with-me)
+
+## Пет-проекты
+
+- [TaskTrackifyBot](https://github.com/BucketOnHead/java-task-tracker-telegram-bot/tree/main)
 
 ## Сертификаты
 
