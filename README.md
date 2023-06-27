@@ -39,10 +39,10 @@
 ## Статистика
 
 <a href="https://github-readme-stats.vercel.app/api?username=BucketOnHead&show_icons=true&count_private=true"> 
-  <img height='130' src="https://github-readme-stats.vercel.app/api?username=BucketOnHead&show_icons=true&count_private=true&hide=issues,contribs"/>
+  <img height='130' src="https://github-readme-stats.vercel.app/api?username=BucketOnHead&show_icons=true&count_private=true&hide=issues,contribs" alt="Тут должна быть статистика активности 😅"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BucketOnHead&layout=compact"> 
-  <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BucketOnHead&layout=compact"/> 
+  <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BucketOnHead&layout=compact" alt="Тут должна быть статистика использования языков 😅"/> 
 </a>
 
 ## Языки программирования
