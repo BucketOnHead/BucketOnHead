@@ -16,8 +16,10 @@
 
 ## Контакты
 
-- Gmail: marakanovivan@gmail.com
-- Telegram: https://t.me/BucketOnHead
+| Способ связи | Контакт                                    |
+|--------------|--------------------------------------------|  
+| email        | <marakanovivan@gmail.com>                  |
+| telegram     | [@BucketOnHead](https://t.me/BucketOnHead) | 
 
 ## Курсы
 
